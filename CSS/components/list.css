@@ -1,0 +1,9 @@
+
+.list li{
+  color:red;
+  display: inline;
+}
+
+.list a{
+  color: rgb(200, 41, 46);
+}

@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Alfa+Slab+One|Bebas+Neue|Bilbo+Swash+Caps|Pathway+Gothic+One&display=swap");
+/* bebas=Titre Melancholia/ bilbo=Sous-titre/ alfa=Texte-titre/ Pathway=p*/
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/buttons.css");
+
+@import url("components/banner.css");
+
+@import url("components/list.css");
+
+@import url("components/home-image.css");
+
+@import url("components/cards.css");
+
+@import url("components/card.css");
+
+
+body{
+  font-family: "Alfa Slab One";
+  color: rgb(200, 41, 46);
+}
+
+h1{
+  font-family: "Bebas Neue";
+  color: rgb(200, 41, 46);
+  font-weight: lighter;
+}
+
+h2{
+  font-family: "Bilbo Swash Caps";
+  color: rgb(200, 41, 46);
+}
+
+
+a{
+  text-decoration: none;
+}
+
+p{
+  font-family: "Alfa Slab One";
+  font-size: 19px;
+}
